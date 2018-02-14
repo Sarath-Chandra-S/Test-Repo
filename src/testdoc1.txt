@@ -1,1 +1,2 @@
 1. First Modification in the repo
+2. Testing How Conflict & Merge works
